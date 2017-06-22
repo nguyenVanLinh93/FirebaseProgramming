@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Programming</string>
+    <string name="use_string_values">use string values</string>
+    <string name="use_object_values">use object values</string>
+    <string name="user_hashmap_values">user hashmap values</string>
+    <string name="set">SET</string>
+    <string name="get">get</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="get_values_hasmap_from_firebase">get values hasmap from firebase</string>
+    <string name="put_to_firebase">put to firebase</string>
+    <string name="save">save</string>
+</resources>
